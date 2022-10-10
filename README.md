@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @sahalam78
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @sahalam
 
-<!---
-sahalam78/sahalam78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Our site discusses why wellness is important and discusses various topics related to wellness and types of wellness.
+naw visit . www.healthcare29.co.in
